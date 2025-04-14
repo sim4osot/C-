@@ -1,7 +1,4 @@
-cd C:\Project_CV
 g++ oop_calculator.cpp -o calculator
 ./calculator
 
 g++ oop_calculator.cpp -o Calculator.exe(Making exe)
-
-COMMANDS ARE FOR BASH
