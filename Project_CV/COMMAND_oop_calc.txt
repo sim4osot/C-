@@ -1,2 +1,0 @@
-g++ oop_calculator.cpp -o calculator
-./calculator
