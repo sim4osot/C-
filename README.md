@@ -16,6 +16,3 @@
 
 За да стартираме калкулатора трябва да отворим a.exe, или да напишем следните команди в terminal:
 
-g++ -o calculator oop_calculator.cpp
-
-./calculator
