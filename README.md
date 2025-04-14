@@ -16,3 +16,19 @@
 
 За да стартираме калкулатора трябва да отворим a.exe.
 
+
+
+
+
+
+g++ oop_calculator.cpp -o oop_calculator.exe -std=c++17 \
+-IC:/msys64/mingw64/include/wx-3.0 \
+-IC:/msys64/mingw64/lib/wx/include/msw-unicode-3.0 \
+-LC:/msys64/mingw64/lib \
+-lwx_baseu-3.0 -lwx_mswu_core-3.0 -mwindows
+
+
+
+./oop_calculator.exe
+
+
